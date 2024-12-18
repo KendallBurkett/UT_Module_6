@@ -74,7 +74,7 @@ This project includes two key components:
      - Google Maps API
 
 3. **Run**:
-   - Launch the Jupyter Notebooks:
+   - Open the repository in VSCode
      
    - Open and run `WeatherPy.ipynb` and `VacationPy.ipynb` sequentially.
 
