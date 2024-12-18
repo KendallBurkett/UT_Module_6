@@ -75,9 +75,7 @@ This project includes two key components:
 
 3. **Run**:
    - Launch the Jupyter Notebooks:
-     ```bash
-     jupyter lab
-     ```
+     
    - Open and run `WeatherPy.ipynb` and `VacationPy.ipynb` sequentially.
 
 ---
