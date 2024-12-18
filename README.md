@@ -60,6 +60,7 @@ This project includes two key components:
 1. **Prerequisites**:
    - Python 3.x
    - Jupyter Notebook or JupyterLab
+   - User generated API keys for GeoApify and OpenWeather
 
 2. **Setup**:
    - Clone this repository or download the project files.
@@ -67,7 +68,7 @@ This project includes two key components:
      ```bash
      pip install -r requirements.txt
      ```
-   - Add your API keys in the `api_keys.py` file for:
+   - Add your API keys in an `api_keys.py` file for:
      - OpenWeatherMap API
      - Google Maps API
 
