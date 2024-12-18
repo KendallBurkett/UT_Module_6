@@ -30,6 +30,7 @@ This project includes two key components:
 | `WeatherPy.ipynb`         | Jupyter Notebook for retrieving and analyzing weather data.   |
 | `VacationPy.ipynb`        | Jupyter Notebook for identifying and mapping vacation spots.  |
 | `api_keys.py`             | Python file storing API keys (e.g., OpenWeatherMap, Google).  |
+| `.gitignore`              | .gitignore to hide the api_keys.py file from public viewing.  |
 | `cities.csv`              | CSV file containing city data for analysis.                  |
 
 ---
